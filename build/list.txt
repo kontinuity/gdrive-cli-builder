@@ -1,1 +1,1 @@
-darwin/arm
+darwin/arm64
